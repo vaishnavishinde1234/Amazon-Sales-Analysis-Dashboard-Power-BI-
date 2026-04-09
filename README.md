@@ -9,3 +9,26 @@ This project presents an interactive Power BI dashboard designed to analyze Amaz
 - Track revenue trends over time (monthly & weekly)
 - Identify top-performing products and customer engagement
 - Enable data-driven business decisions
+
+## Key Performance Indicators (KPIs)
+- YTD Sales: $2.18M
+- QTD Sales: $811K
+- Products Sold: 27.75K
+- Total Reviews: 19.42M
+
+## Dashboard Features
+- Monthly Sales Trend Analysis
+- Weekly Sales Performance Tracking
+- Top 5 Products by Sales
+- Top 5 Products by Reviews
+- Category-wise Revenue Distribution
+- Interactive Filters (Product, Quarter)
+
+## Tools Used
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Microsoft Excel
+
+## Project Structure
+Data- 
