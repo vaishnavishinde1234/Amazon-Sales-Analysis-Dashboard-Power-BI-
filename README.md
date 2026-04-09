@@ -35,4 +35,5 @@ Data- https://github.com/vaishnavishinde1234/Amazon-Sales-Analysis-Dashboard-Pow
 Dashboard- https://github.com/vaishnavishinde1234/Amazon-Sales-Analysis-Dashboard-Power-BI-/blob/main/Amazon%20Sales%20final.pbit<br>
 Screenshot- https://github.com/vaishnavishinde1234/Amazon-Sales-Analysis-Dashboard-Power-BI-/blob/main/Amazon%20Sales%20Screenshot.png<br> 
 
-C:\Users\Admin\OneDrive\Pictures\Screenshots\Amazon Sales Screenshot.png
+<img width="886" height="495" alt="Amazon Sales Screenshot" src="https://github.com/user-attachments/assets/dad2d124-c83c-4bd0-8a86-7cfb9ccaaeb6" />
+
