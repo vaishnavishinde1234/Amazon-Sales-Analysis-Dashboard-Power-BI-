@@ -31,4 +31,5 @@ This project presents an interactive Power BI dashboard designed to analyze Amaz
 - Microsoft Excel
 
 ## Project Structure
-Data- 
+Data- https://github.com/vaishnavishinde1234/Amazon-Sales-Analysis-Dashboard-Power-BI-/blob/main/Amazon_Combined_Data.xlsx
+Dashboard- 
